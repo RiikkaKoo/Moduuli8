@@ -13,8 +13,8 @@ yhteys = mysql.connector.connect(
          host='127.0.0.1', #host='localhost'
          port= 3306,
          database='flight_game',
-         user='riikkoo',
-         password='2001Riikka',
+         user='kayttaja',
+         password='sala_sana',
          autocommit=True
          )
 
